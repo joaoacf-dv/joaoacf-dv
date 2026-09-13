@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" role="img" aria-labelledby="title description">
+  <title id="title">João C. Fonseca</title>
+  <desc id="description">Infrastructure, Automation, Software and Solutions</desc>
+  <rect width="1280" height="320" fill="#ffffff"/>
+  <rect x="72" y="72" width="6" height="176" fill="#0969da"/>
+  <path d="M112 232H1208" stroke="#d0d7de" stroke-width="2"/>
+  <circle cx="1134" cy="102" r="42" fill="none" stroke="#d0d7de" stroke-width="2"/>
+  <path d="M1112 102H1156M1134 80V124" stroke="#0969da" stroke-width="2"/>
+  <text x="112" y="134" fill="#24292f" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="48" font-weight="700" letter-spacing="-0.8">João C. Fonseca</text>
+  <text x="112" y="184" fill="#57606a" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="23" font-weight="500" letter-spacing="0.3">Infrastructure · Automation · Software · Solutions</text>
+  <text x="112" y="224" fill="#0969da" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="600" letter-spacing="2.1">TECHNICAL PORTFOLIO</text>
+</svg>
