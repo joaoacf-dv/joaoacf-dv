@@ -4,15 +4,14 @@
   <img alt="João C. Fonseca — Infrastructure, Automation, Software and Solutions" src="assets/profile-header-light.svg" width="100%">
 </picture>
 
-# João C. Fonseca
-
-**Infrastructure · Automation · Systems Development**
-
-Systems Integration · Observability · Solutions
+<p align="center">
+  <strong>Infrastructure · Automation · Systems Development</strong><br>
+  Systems Integration · Observability · Solutions
+</p>
 
 ## Sobre
 
-Portfólio técnico voltado a infraestrutura de TI, automação operacional, desenvolvimento de sistemas, integração de soluções e observabilidade. Reúne projetos e estudos aplicados que articulam operação, automação e construção de soluções técnicas.
+Profissional de tecnologia com atuação na interseção entre infraestrutura de TI, automação, desenvolvimento de sistemas, integração de soluções e observabilidade. Os projetos apresentados neste perfil refletem uma abordagem orientada à operação, automação e construção de soluções técnicas.
 
 ## Foco técnico
 
