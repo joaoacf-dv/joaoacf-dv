@@ -36,9 +36,3 @@ Produto web de utilitários com catálogo público, experiência bilíngue e pro
 ### [Portfólio Técnico](https://joaoacf-dv.github.io/portfolio-tecnico/)
 
 Coleção pública de cases sobre infraestrutura, automação, observabilidade, integração e desenvolvimento de sistemas.
-
-## Links profissionais
-
-- [Portfólio Técnico](https://joaoacf-dv.github.io/portfolio-tecnico/)
-- [LinkedIn](https://www.linkedin.com/in/joaoacf-dv)
-- [GitHub](https://github.com/joaoacf-dv)
