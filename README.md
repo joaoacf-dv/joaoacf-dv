@@ -19,11 +19,16 @@ Profissional de tecnologia com atuação na interseção entre infraestrutura de
 | --- | --- |
 | **Infraestrutura** | Windows Server · Active Directory · Linux |
 | **Automação e desenvolvimento** | Python · PowerShell · JavaScript |
+| **Desenvolvimento mobile** | Kotlin · Jetpack Compose · Android SDK · MediaStore · SAF |
 | **Plataformas e containers** | Docker · PostgreSQL |
 | **Observabilidade** | Zabbix · Grafana |
 | **Integração** | APIs · webhooks · integração de sistemas |
 
 ## Trabalhos selecionados
+
+### [Storage Cleaner — Android Storage Utility](https://joaoacf-dv.github.io/portfolio-tecnico/cases/storage-cleaner.html)
+
+Aplicativo Android nativo para análise e organização de armazenamento, desenvolvido com Kotlin, Jetpack Compose, MediaStore e Storage Access Framework, com homologação física, freeze de release e preparação para publicação na Google Play.
 
 ### [PRAGMA — Automation & AI Platform](https://joaoacf-dv.github.io/portfolio-tecnico/cases/pragma.html)
 
