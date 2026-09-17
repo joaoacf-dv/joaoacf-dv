@@ -28,7 +28,7 @@ Profissional de tecnologia com atuação na interseção entre infraestrutura de
 
 ### [Storage Cleaner — Android Storage Utility](https://joaoacf-dv.github.io/portfolio-tecnico/cases/storage-cleaner.html)
 
-Aplicativo Android nativo para análise e organização de armazenamento, desenvolvido com Kotlin, Jetpack Compose, MediaStore e Storage Access Framework, com homologação física, freeze de release e preparação para publicação na Google Play.
+Aplicativo Android nativo para análise e organização de armazenamento, desenvolvido com Kotlin, Jetpack Compose, MediaStore e Storage Access Framework, com homologação física, release consolidado e pacote de recuperação offline.
 
 ### [PRAGMA — Automation & AI Platform](https://joaoacf-dv.github.io/portfolio-tecnico/cases/pragma.html)
 
