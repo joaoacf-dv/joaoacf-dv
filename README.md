@@ -32,7 +32,7 @@ Aplicativo Android nativo para criação, desenho, edição, organização e exp
 
 ### [Storage Cleaner — Android Storage Utility](https://joaoacf-dv.github.io/portfolio-tecnico/cases/storage-cleaner.html)
 
-Aplicativo Android nativo para análise e organização de armazenamento, desenvolvido com Kotlin, Jetpack Compose, MediaStore e Storage Access Framework, com homologação física, release consolidado e pacote de recuperação offline.
+Aplicativo Android nativo para análise e organização de armazenamento, desenvolvido com Kotlin, Jetpack Compose, MediaStore e Storage Access Framework, com homologação física, release V1.0.0 consolidado e freeze técnico final com recuperação offline validada.
 
 ### [PRAGMA — Automation & AI Platform](https://joaoacf-dv.github.io/portfolio-tecnico/cases/pragma.html)
 
