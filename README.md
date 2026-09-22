@@ -26,6 +26,10 @@ Profissional de tecnologia com atuação na interseção entre infraestrutura de
 
 ## Trabalhos selecionados
 
+### [Stiq — Sticker Studio](https://joaoacf-dv.github.io/portfolio-tecnico/cases/stiq.html)
+
+Aplicativo Android nativo para criação, edição, organização e exportação de figurinhas estáticas e animadas, com composição visual, biblioteca local, pacotes e integração com WhatsApp.
+
 ### [Storage Cleaner — Android Storage Utility](https://joaoacf-dv.github.io/portfolio-tecnico/cases/storage-cleaner.html)
 
 Aplicativo Android nativo para análise e organização de armazenamento, desenvolvido com Kotlin, Jetpack Compose, MediaStore e Storage Access Framework, com homologação física, release consolidado e pacote de recuperação offline.
