@@ -17,14 +17,18 @@ Profissional de tecnologia com atuação na interseção entre infraestrutura de
 
 | Frente | Tecnologias e práticas |
 | --- | --- |
-| **Infraestrutura** | Windows Server · Active Directory · Linux |
-| **Automação e desenvolvimento** | Python · PowerShell · JavaScript |
+| **Infraestrutura** | Windows Server · Active Directory · Linux · Governança de identidade |
+| **Automação e desenvolvimento** | C++ · Qt 6 · Python · PowerShell · JavaScript |
 | **Desenvolvimento mobile** | Kotlin · Jetpack Compose · Android SDK · MediaStore · SAF |
 | **Plataformas e containers** | Docker · PostgreSQL |
 | **Observabilidade** | Zabbix · Grafana |
 | **Integração** | APIs · webhooks · integração de sistemas |
 
 ## Trabalhos selecionados
+
+### [CIOP Manager AD — Gestão de Identidades](https://joaoacf-dv.github.io/portfolio-tecnico/cases/ciop-manager-ad.html)
+
+Aplicação desktop Windows desenvolvida em Qt/C++ com backend PowerShell para fluxos controlados de gestão de identidades Active Directory. Inclui engenharia de empacotamento MSI/WiX, verificação de RSAT, rastreabilidade de ações e validação automatizada em CI. Case público sanitizado; implantação institucional sujeita a homologação.
 
 ### [Stiq — Sticker Studio](https://joaoacf-dv.github.io/portfolio-tecnico/cases/stiq.html)
 
