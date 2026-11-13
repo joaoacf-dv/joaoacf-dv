@@ -28,7 +28,7 @@ Profissional de tecnologia com atuação na interseção entre infraestrutura de
 
 ### [CIOP Manager AD — Gestão de Identidades](https://joaoacf-dv.github.io/portfolio-tecnico/cases/ciop-manager-ad.html)
 
-Aplicação desktop Windows desenvolvida em Qt/C++ com backend PowerShell para fluxos controlados de gestão de identidades Active Directory. Inclui engenharia de empacotamento MSI/WiX, verificação de RSAT, rastreabilidade de ações e validação automatizada em CI. Case público sanitizado; implantação institucional sujeita a homologação.
+Aplicação desktop Windows desenvolvida em Qt/C++ com backend PowerShell para fluxos controlados de gestão de identidades Active Directory. Inclui engenharia de empacotamento MSI/WiX, verificação de RSAT, rastreabilidade de ações e validação automatizada em CI. Case público sanitizado; sistema implantado em ambiente institucional.
 
 ### [Stiq — Sticker Studio](https://joaoacf-dv.github.io/portfolio-tecnico/cases/stiq.html)
 
